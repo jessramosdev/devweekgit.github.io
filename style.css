@@ -123,7 +123,9 @@
 }
 
 .exp-left,
-.exp-right {
+.exp-right,
+.education-left,
+.education-right {
     padding: 20px;
 }
 
@@ -144,7 +146,7 @@
 }
 
 .exp-time-period,
-.educationp-time-period,
+.education-time-period,
 .awards-time-period {
     font-size: 18px;
     padding-top: 8px;
